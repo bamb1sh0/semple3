@@ -1,0 +1,24 @@
+body{
+    background-color: antiquewhite;
+}
+
+img{
+    width: 50%;
+    margin: 16px;
+}
+
+.wrapper{
+    display: inline-block;
+    margin-left: 16px;
+    margin-top: 16px;
+}
+
+ul{
+    padding-top: 16px;
+}
+
+.container {
+    margin-top: 20px;
+    margin-left: 16px;
+    
+}
